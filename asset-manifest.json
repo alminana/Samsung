@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Samsung/static/css/main.c1476892.chunk.css",
+    "main.css": "/Samsung/static/css/main.41d2bcf3.chunk.css",
     "main.js": "/Samsung/static/js/main.2d4494b2.chunk.js",
     "main.js.map": "/Samsung/static/js/main.2d4494b2.chunk.js.map",
     "runtime-main.js": "/Samsung/static/js/runtime-main.e3fc0c9d.js",
@@ -8,9 +8,9 @@
     "static/js/2.6ed1760b.chunk.js": "/Samsung/static/js/2.6ed1760b.chunk.js",
     "static/js/2.6ed1760b.chunk.js.map": "/Samsung/static/js/2.6ed1760b.chunk.js.map",
     "index.html": "/Samsung/index.html",
-    "precache-manifest.48e8eb68e960afe7c7f3df7b50f27157.js": "/Samsung/precache-manifest.48e8eb68e960afe7c7f3df7b50f27157.js",
+    "precache-manifest.6b8dd7d456e9a8479ac0fc6285f4df91.js": "/Samsung/precache-manifest.6b8dd7d456e9a8479ac0fc6285f4df91.js",
     "service-worker.js": "/Samsung/service-worker.js",
-    "static/css/main.c1476892.chunk.css.map": "/Samsung/static/css/main.c1476892.chunk.css.map",
+    "static/css/main.41d2bcf3.chunk.css.map": "/Samsung/static/css/main.41d2bcf3.chunk.css.map",
     "static/js/2.6ed1760b.chunk.js.LICENSE.txt": "/Samsung/static/js/2.6ed1760b.chunk.js.LICENSE.txt",
     "static/media/bars-solid.svg": "/Samsung/static/media/bars-solid.b3f49afd.svg",
     "static/media/shopping-cart-solid.svg": "/Samsung/static/media/shopping-cart-solid.8bf1af37.svg",
@@ -19,7 +19,7 @@
   "entrypoints": [
     "static/js/runtime-main.e3fc0c9d.js",
     "static/js/2.6ed1760b.chunk.js",
-    "static/css/main.c1476892.chunk.css",
+    "static/css/main.41d2bcf3.chunk.css",
     "static/js/main.2d4494b2.chunk.js"
   ]
 }
