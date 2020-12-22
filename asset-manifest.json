@@ -1,27 +1,28 @@
 {
   "files": {
-    "main.css": "/Samsung/static/css/main.9900b72f.chunk.css",
-    "main.js": "/Samsung/static/js/main.f46cac32.chunk.js",
-    "main.js.map": "/Samsung/static/js/main.f46cac32.chunk.js.map",
+    "main.css": "/Samsung/static/css/main.017c5c39.chunk.css",
+    "main.js": "/Samsung/static/js/main.de2e17ac.chunk.js",
+    "main.js.map": "/Samsung/static/js/main.de2e17ac.chunk.js.map",
     "runtime-main.js": "/Samsung/static/js/runtime-main.e3fc0c9d.js",
     "runtime-main.js.map": "/Samsung/static/js/runtime-main.e3fc0c9d.js.map",
-    "static/js/2.4d974751.chunk.js": "/Samsung/static/js/2.4d974751.chunk.js",
-    "static/js/2.4d974751.chunk.js.map": "/Samsung/static/js/2.4d974751.chunk.js.map",
+    "static/js/2.d2b2fcfc.chunk.js": "/Samsung/static/js/2.d2b2fcfc.chunk.js",
+    "static/js/2.d2b2fcfc.chunk.js.map": "/Samsung/static/js/2.d2b2fcfc.chunk.js.map",
     "index.html": "/Samsung/index.html",
-    "precache-manifest.b0abf5f866495a660241067695e32dcb.js": "/Samsung/precache-manifest.b0abf5f866495a660241067695e32dcb.js",
+    "precache-manifest.eec8ec31323c1beb6e7cdc114a48fb95.js": "/Samsung/precache-manifest.eec8ec31323c1beb6e7cdc114a48fb95.js",
     "service-worker.js": "/Samsung/service-worker.js",
-    "static/css/main.9900b72f.chunk.css.map": "/Samsung/static/css/main.9900b72f.chunk.css.map",
-    "static/js/2.4d974751.chunk.js.LICENSE.txt": "/Samsung/static/js/2.4d974751.chunk.js.LICENSE.txt",
+    "static/css/main.017c5c39.chunk.css.map": "/Samsung/static/css/main.017c5c39.chunk.css.map",
+    "static/js/2.d2b2fcfc.chunk.js.LICENSE.txt": "/Samsung/static/js/2.d2b2fcfc.chunk.js.LICENSE.txt",
     "static/media/bars-solid.svg": "/Samsung/static/media/bars-solid.b3f49afd.svg",
-    "static/media/logo.jpg": "/Samsung/static/media/logo.874e4a74.jpg",
+    "static/media/logo.gif": "/Samsung/static/media/logo.d882558e.gif",
+    "static/media/s10+.jpg": "/Samsung/static/media/s10+.5a9672f1.jpg",
     "static/media/shopping-cart-solid.svg": "/Samsung/static/media/shopping-cart-solid.8bf1af37.svg",
     "static/media/times-solid.svg": "/Samsung/static/media/times-solid.2c5552a1.svg",
     "static/media/videoplayback.mp4": "/Samsung/static/media/videoplayback.f1a70408.mp4"
   },
   "entrypoints": [
     "static/js/runtime-main.e3fc0c9d.js",
-    "static/js/2.4d974751.chunk.js",
-    "static/css/main.9900b72f.chunk.css",
-    "static/js/main.f46cac32.chunk.js"
+    "static/js/2.d2b2fcfc.chunk.js",
+    "static/css/main.017c5c39.chunk.css",
+    "static/js/main.de2e17ac.chunk.js"
   ]
 }
