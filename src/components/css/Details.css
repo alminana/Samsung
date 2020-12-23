@@ -43,7 +43,7 @@
 }
 .box .cart{
     background: #333;
-    color: white;
+    color: rgb(3, 3, 3);
     text-decoration: none;
     padding: 10px 25px;
     display: inline-block;

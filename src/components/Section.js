@@ -10,8 +10,8 @@ export class Section extends Component {
     render() {
         return (
             <section className="container-fuild">
-                    <Route path="/"  exact />
-                    <Route path="/product" component={Products} exact  />
+                    <Route path="/" component={Products}  exact  />
+                    <Route path="/product"   />
                     <Route path="/product/:id" component={Details} exact />
                     <Route path="/cart" component={Cart}  exact/>
                     <Route path="/payment" component={Payment} exact />

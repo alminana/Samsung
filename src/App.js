@@ -16,7 +16,7 @@ class App extends React.Component{
             <Header />
             <Banner/>
             <Brand/>
-            <Section />s
+            <Section />
           </Router>
         </div>
       </DataProvider>
