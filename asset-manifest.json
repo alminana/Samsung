@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Samsung/static/css/main.f02328b1.chunk.css",
-    "main.js": "/Samsung/static/js/main.7fe406c8.chunk.js",
-    "main.js.map": "/Samsung/static/js/main.7fe406c8.chunk.js.map",
+    "main.css": "/Samsung/static/css/main.595e79b2.chunk.css",
+    "main.js": "/Samsung/static/js/main.71a55516.chunk.js",
+    "main.js.map": "/Samsung/static/js/main.71a55516.chunk.js.map",
     "runtime-main.js": "/Samsung/static/js/runtime-main.e3fc0c9d.js",
     "runtime-main.js.map": "/Samsung/static/js/runtime-main.e3fc0c9d.js.map",
     "static/js/2.5c1fabe3.chunk.js": "/Samsung/static/js/2.5c1fabe3.chunk.js",
     "static/js/2.5c1fabe3.chunk.js.map": "/Samsung/static/js/2.5c1fabe3.chunk.js.map",
     "index.html": "/Samsung/index.html",
-    "precache-manifest.c1c9c8626da99c90cb9b279b4efb8486.js": "/Samsung/precache-manifest.c1c9c8626da99c90cb9b279b4efb8486.js",
+    "precache-manifest.e733f025379f4b5cc56eb06b44e46d53.js": "/Samsung/precache-manifest.e733f025379f4b5cc56eb06b44e46d53.js",
     "service-worker.js": "/Samsung/service-worker.js",
-    "static/css/main.f02328b1.chunk.css.map": "/Samsung/static/css/main.f02328b1.chunk.css.map",
+    "static/css/main.595e79b2.chunk.css.map": "/Samsung/static/css/main.595e79b2.chunk.css.map",
     "static/js/2.5c1fabe3.chunk.js.LICENSE.txt": "/Samsung/static/js/2.5c1fabe3.chunk.js.LICENSE.txt",
     "static/media/bars-solid.svg": "/Samsung/static/media/bars-solid.b3f49afd.svg",
     "static/media/logo.gif": "/Samsung/static/media/logo.d882558e.gif",
@@ -22,7 +22,7 @@
   "entrypoints": [
     "static/js/runtime-main.e3fc0c9d.js",
     "static/js/2.5c1fabe3.chunk.js",
-    "static/css/main.f02328b1.chunk.css",
-    "static/js/main.7fe406c8.chunk.js"
+    "static/css/main.595e79b2.chunk.css",
+    "static/js/main.71a55516.chunk.js"
   ]
 }

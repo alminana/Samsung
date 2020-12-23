@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "64744cc6485e3c2fe97b037e151bf583",
+    "revision": "ed86e119b37f37b8b0ab0869cc5ceebb",
     "url": "/Samsung/index.html"
   },
   {
-    "revision": "8b89ad71cb6b4ac2d319",
-    "url": "/Samsung/static/css/main.f02328b1.chunk.css"
+    "revision": "0dea888ce0ddd0fe2348",
+    "url": "/Samsung/static/css/main.595e79b2.chunk.css"
   },
   {
     "revision": "429c9432d0866b926f0c",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Samsung/static/js/2.5c1fabe3.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8b89ad71cb6b4ac2d319",
-    "url": "/Samsung/static/js/main.7fe406c8.chunk.js"
+    "revision": "0dea888ce0ddd0fe2348",
+    "url": "/Samsung/static/js/main.71a55516.chunk.js"
   },
   {
     "revision": "d9bc25e6a6bafdd62078",
