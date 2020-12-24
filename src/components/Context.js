@@ -7,7 +7,7 @@ export class DataProvider extends Component {
         products: [
             {
                 "_id": "1",
-                "title": "Nike Shoes 01",
+                "title": "SAMSUNG",
                 "src": "https://res.cloudinary.com/alminana/image/upload/v1608750759/ecommerce/LG_g6_skin_aa5otp.png",
                 "description": "UI/UX designing, html css tutorials",
                 "content": "Welcome to our channel Dev AT. Here you can learn web designing, UI/UX designing, html css tutorials, css animations and css effects, javascript and jquery tutorials and related so on.",
@@ -17,7 +17,7 @@ export class DataProvider extends Component {
             },
             {
                 "_id": "2",
-                "title": "Nike Shoes 02",
+                "title": "SAMSUNG",
                 "src": "https://res.cloudinary.com/alminana/image/upload/v1608750758/ecommerce/Samsung_Galaxy_S8_skin_yoqr9g.png",
                 "description": "UI/UX designing, html css tutorials",
                 "content": "Welcome to our channel Dev AT. Here you can learn web designing, UI/UX designing, html css tutorials, css animations and css effects, javascript and jquery tutorials and related so on.",
@@ -27,7 +27,7 @@ export class DataProvider extends Component {
             },
             {
                 "_id": "3",
-                "title": "Nike Shoes 03",
+                "title": "SAMSUNG",
                 "src": "https://res.cloudinary.com/alminana/image/upload/v1608750757/ecommerce/apple_iphone_7_skin_oummfq.png",
                 "description": "UI/UX designing, html css tutorials",
                 "content": "Welcome to our channel Dev AT. Here you can learn web designing, UI/UX designing, html css tutorials, css animations and css effects, javascript and jquery tutorials and related so on.",
@@ -37,7 +37,7 @@ export class DataProvider extends Component {
             },
             {
                 "_id": "4",
-                "title": "Nike Shoes 04",
+                "title": "SAMSUNG",
                 "src": "https://res.cloudinary.com/alminana/image/upload/v1608750758/ecommerce/Samsung_Galaxy_note_8_skin_uqrbb6.png",
                 "description": "UI/UX designing, html css tutorials",
                 "content": "Welcome to our channel Dev AT. Here you can learn web designing, UI/UX designing, html css tutorials, css animations and css effects, javascript and jquery tutorials and related so on.",
@@ -47,7 +47,7 @@ export class DataProvider extends Component {
             },
             {
                 "_id": "5",
-                "title": "Nike Shoes 05",
+                "title": "SAMSUNG",
                 "src": "https://res.cloudinary.com/alminana/image/upload/v1608750758/ecommerce/apple_iphone_xs_max_skin_vvcbcu.png",
                 "description": "UI/UX designing, html css tutorials",
                 "content": "Welcome to our channel Dev AT. Here you can learn web designing, UI/UX designing, html css tutorials, css animations and css effects, javascript and jquery tutorials and related so on.",
@@ -57,7 +57,7 @@ export class DataProvider extends Component {
             },
             {
                 "_id": "6",
-                "title": "Nike Shoes 06",
+                "title": "SAMSUNG",
                 "src": "https://res.cloudinary.com/alminana/image/upload/v1608750758/ecommerce/huawei_p20_lite_skin_l1bmje.png",
                 "description": "UI/UX designing, html css tutorials",
                 "content": "Welcome to our channel Dev AT. Here you can learn web designing, UI/UX designing, html css tutorials, css animations and css effects, javascript and jquery tutorials and related so on.",
@@ -67,7 +67,7 @@ export class DataProvider extends Component {
             },
             {
                 "_id": "7",
-                "title": "Nike Shoes 06",
+                "title": "SAMSUNG",
                 "src": "https://res.cloudinary.com/alminana/image/upload/v1608750758/ecommerce/huawei_p20_lite_skin_l1bmje.png",
                 "description": "UI/UX designing, html css tutorials",
                 "content": "Welcome to our channel Dev AT. Here you can learn web designing, UI/UX designing, html css tutorials, css animations and css effects, javascript and jquery tutorials and related so on.",
@@ -77,7 +77,7 @@ export class DataProvider extends Component {
             },
             {
                 "_id": "8",
-                "title": "Nike Shoes 06",
+                "title": "SAMSUNG",
                 "src": "https://res.cloudinary.com/alminana/image/upload/v1608750758/ecommerce/huawei_p20_lite_skin_l1bmje.png",
                 "description": "UI/UX designing, html css tutorials",
                 "content": "Welcome to our channel Dev AT. Here you can learn web designing, UI/UX designing, html css tutorials, css animations and css effects, javascript and jquery tutorials and related so on.",
@@ -87,7 +87,7 @@ export class DataProvider extends Component {
             },
             {
                 "_id": "7",
-                "title": "Nike Shoes 06",
+                "title": "SAMSUNG",
                 "src": "https://res.cloudinary.com/alminana/image/upload/v1608750758/ecommerce/huawei_p20_lite_skin_l1bmje.png",
                 "description": "UI/UX designing, html css tutorials",
                 "content": "Welcome to our channel Dev AT. Here you can learn web designing, UI/UX designing, html css tutorials, css animations and css effects, javascript and jquery tutorials and related so on.",
@@ -97,7 +97,7 @@ export class DataProvider extends Component {
             },
             {
                 "_id": "8",
-                "title": "Nike Shoes 06",
+                "title": "SAMSUNG",
                 "src": "https://res.cloudinary.com/alminana/image/upload/v1608750757/ecommerce/apple_iphone_xr_skin_agdqrq.png",
                 "description": "UI/UX designing, html css tutorials",
                 "content": "Welcome to our channel Dev AT. Here you can learn web designing, UI/UX designing, html css tutorials, css animations and css effects, javascript and jquery tutorials and related so on.",

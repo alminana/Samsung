@@ -28,8 +28,8 @@
     text-align: center;
 }
 .card h3{
-    font-size: 25px;
-  
+    font-size: 15px !important;
+    text-align: center;
 }
 .card h3 a{
     text-decoration: none;

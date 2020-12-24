@@ -11,7 +11,7 @@ export class Section extends Component {
         return (
             <section className="container-fuild">
                     <Route path="/" component={Products}  exact  />
-                    <Route path="/product"   />
+                    <Route path="/product"  component={Products}  exact />
                     <Route path="/product/:id" component={Details} exact />
                     <Route path="/cart" component={Cart}  exact/>
                     <Route path="/payment" component={Payment} exact />
