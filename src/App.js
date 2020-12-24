@@ -4,6 +4,7 @@ import Header from './components/Header'
 import Banner from './components/UI/banner/banner'
 import Section from './components/Section'
 import Brand from './components/UI/brand/Brand'
+import Footer from './components/UI/footer/Footer'
 import {DataProvider} from './components/Context'
 
 
@@ -17,6 +18,7 @@ class App extends React.Component{
             <Banner/>
             <Brand/>
             <Section />
+            <Footer/>
           </Router>
         </div>
       </DataProvider>
